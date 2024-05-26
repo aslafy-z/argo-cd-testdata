@@ -4,7 +4,6 @@ metadata:
   labels:
     test: "true"
   name: guestbook-ui
-  namespace: NAMESPACETHATDOESNOTEXIST
 spec:
   replicas: 0
   revisionHistoryLimit: 3
